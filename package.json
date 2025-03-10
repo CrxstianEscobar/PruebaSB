@@ -13,6 +13,7 @@
 "start": "node main.js",
 "qr": "node main.js qr",
 "code": "node main.js code",
+"test": "node test.js",
 "test2": "nodemon main.js",
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
